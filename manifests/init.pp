@@ -4,6 +4,6 @@
 #
 # @example
 #   include base
-class base {
+class puppet_base {
   Host <<||>>
 }
